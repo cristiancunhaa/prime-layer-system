@@ -57,7 +57,7 @@ The constant **2 + √2 = √2 × δₛ ≈ 3.414** involves the **Silver Ratio*
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/prime-layer-system.git
+git clone https://github.com/cristiancunhaa/prime-layer-system.git
 cd prime-layer-system
 pip install -r requirements.txt
 ```
